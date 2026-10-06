@@ -1,11 +1,13 @@
 # 🚗 MYRATING Autos — Официальное приложение для Android
 
-[![Загрузить APK](https://img.shields.io/badge/Скачать-APK_v1.0.0-34A853?style=for-the-badge&logo=android&logoColor=white)](https://github.com/mrvolkov2/myrating-apk/raw/main/app-release.apk)
 [![Официальная страница](https://img.shields.io/badge/Сайт-myrating.autos%2Fabout%2Fapp-1B72E8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myrating.autos/about/app)
 [![Присоединиться к команде](https://img.shields.io/badge/Команда-Стать_тестировщиком-FF6F61?style=for-the-badge&logo=googleplay&logoColor=white)](https://myrating.autos/about/team)
 
-Официальный репозиторий сборки мобильного приложения **MyRating Autos**!  
+Официальный репозиторий сборки мобильного приложения **MYRATING Autos**!  
 Здесь вы всегда можете скачать свежую актуальную версию `.apk` файла для прямого и безопасного размещения на вашем устройстве Android.
+
+
+[![Загрузить APK](https://img.shields.io/badge/Скачать-APK_v1.0.0-34A853?style=for-the-badge&logo=android&logoColor=white)](https://github.com/mrvolkov2/myrating-apk/raw/main/app-release.apk)
 
 ---
 
